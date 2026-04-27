@@ -20,7 +20,7 @@ The evidence was gathered from existing catalogues, from specialised studies, an
 - The variable 'source' in the dataset.
 
 ## File List
-* `data/your_dataset.csv`: The main dataset. 
+* `Practical_Arithmetic_web_Db`: The main dataset on practical arithmetic manuals. 
 * `LICENSE`: Creative Commons Attribution-NonCommercial 4.0.
 * `CITATION.cff`: Citation metadata for the repository.
 
