@@ -1,6 +1,6 @@
 # Dataset for The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19829542.svg)](https://doi.org/10.5281/zenodo.19829542.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19829542.svg)](https://doi.org/10.5281/zenodo.19829542)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 ## Overview
