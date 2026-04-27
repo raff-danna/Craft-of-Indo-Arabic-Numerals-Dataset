@@ -1,11 +1,11 @@
-# Dataset for: The Craft on Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600
+# Dataset for: The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXX)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 ## Overview
 This repository contains the primary research data associated with the monograph:
-**Raffaele Danna, ‘The Craft on Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600‘, Cambridge (Mass): Harvard University Press (2026)**  
+**Raffaele Danna, ‘The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600‘, Cambridge (Mass): Harvard University Press (2026)**  
 ISBN: 978-0-674-27933-9  
 (https://www.hup.harvard.edu/books/9780674279339)
 
@@ -46,7 +46,7 @@ The evidence was gathered from existing catalogues, from specialised studies, an
 If you use this data, please cite both the book and the dataset:
 
 **Book:**
-Danna, R. (2026). *The Craft on Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600*. Cambridge, MA: Harvard University Press. ISBN: 978-0-674-27933-9
+Danna, R. (2026). *The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600*. Cambridge, MA: Harvard University Press. ISBN: 978-0-674-27933-9
 
 **Dataset:**
 Danna, R. (2026). *Dataset for The Craft on Indo-Arabic Numerals*. Version 1.0.0. Zenodo. [DOI Link]
