@@ -6,7 +6,7 @@
 ## Overview
 This repository contains the primary research data associated with the monograph:
 
-**Raffaele Danna, ‘The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600‘, Cambridge (Mass): Harvard University Press (2026)**  
+**Raffaele Danna, ‘The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600‘, Cambridge (Mass): Harvard University Press, 2026**  
 ISBN: 978-0-674-27933-9  
 (https://www.hup.harvard.edu/books/9780674279339)
 
@@ -16,7 +16,7 @@ The dataset provides evidence on the European tradition of practical mathematics
 ## Methodology & Sources
 The evidence was gathered from existing catalogues, from specialised studies, and from archival research. For more details, see: 
 
-- The ‘Note on sources’ in ‘Danna, R. (2026), ‘The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200-1600’, Cambridge (Mass.): Harvard University Press’;
+- The ‘Note on sources’ in Raffaele Danna, ‘The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600‘, Cambridge (Mass): Harvard University Press, 2026;
 - The variable 'source' in the dataset.
 
 ## File List
@@ -50,7 +50,7 @@ The evidence was gathered from existing catalogues, from specialised studies, an
 If you use this data, please cite both the book and the dataset:
 
 **Book:**
-Danna, R. (2026). *The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600*. Cambridge, MA: Harvard University Press. ISBN: 978-0-674-27933-9
+Danna, R., *The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600*. Cambridge, MA: Harvard University Press, 2026. ISBN: 978-0-674-27933-9
 
 **Dataset:**
 Danna, R. (2026). *Dataset for The Craft on Indo-Arabic Numerals*. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.19829542
