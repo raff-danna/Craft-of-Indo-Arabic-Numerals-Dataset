@@ -53,7 +53,7 @@ If you use this data, please cite both the book and the dataset:
 Danna, R., *The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600*. Cambridge, MA: Harvard University Press, 2026. ISBN: 978-0-674-27933-9
 
 **Dataset:**
-Danna, R. (2026). *Dataset for The Craft on Indo-Arabic Numerals*. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.19829542
+Danna, R. (2026). *Dataset for The Craft of Indo-Arabic Numerals*. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.19829542
 
 ## Contact
 Website: [https://rafdanna.com/](https://rafdanna.com/)
