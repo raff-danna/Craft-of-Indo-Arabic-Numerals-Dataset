@@ -1,6 +1,6 @@
 # Dataset for The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19829541.svg)](https://doi.org/10.5281/zenodo.19829541)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19829541-blue.svg)](https://doi.org/10.5281/zenodo.19829541)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 ## Overview
@@ -12,6 +12,15 @@ ISBN: 978-0-674-27933-9
 
 ## Project Summary
 The dataset provides evidence on the European tradition of practical mathematics, covering manuals of practical arithmetic written in western Europe from the late 13th century to 1600.
+
+## How to Cite
+If you use this data, please cite both the book and the dataset:
+
+**Book:**
+Danna, R., *The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600*. Cambridge, MA: Harvard University Press, 2026. ISBN: 978-0-674-27933-9
+
+**Dataset:**
+Danna, R. (2026). *Dataset for The Craft of Indo-Arabic Numerals*. Version 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.19829541
 
 ## Methodology & Sources
 The evidence was gathered from existing catalogues, from specialised studies, and from archival research. For more details, see: 
@@ -45,15 +54,6 @@ The evidence was gathered from existing catalogues, from specialised studies, an
 * Text punctuation: Double quotes (`"`) have been converted to apostrophes (`'`) to ensure CSV compatibility.
 * Delimiter: This file is comma-separated.
 * Missing data is reported as an empty cell.
-
-## How to Cite
-If you use this data, please cite both the book and the dataset:
-
-**Book:**
-Danna, R., *The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600*. Cambridge, MA: Harvard University Press, 2026. ISBN: 978-0-674-27933-9
-
-**Dataset:**
-Danna, R. (2026). *Dataset for The Craft of Indo-Arabic Numerals*. Version 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.19829541
 
 ## Contact
 Website: [https://rafdanna.com/](https://rafdanna.com/)
