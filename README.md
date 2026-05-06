@@ -1,7 +1,7 @@
 # Dataset for The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19829541-blue.svg)](https://doi.org/10.5281/zenodo.19829541)
-![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)
 
 ## Overview
 This repository contains the primary research data associated with the monograph:
@@ -20,7 +20,10 @@ If you use this data, please cite both the book and the dataset:
 Danna, R., *The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200–1600*. Cambridge, MA: Harvard University Press, 2026. ISBN: 978-0-674-27933-9
 
 **Dataset:**
-Danna, R. (2026). *Dataset for The Craft of Indo-Arabic Numerals*. Version 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.19829541
+Danna, R. (2026). *Dataset for The Craft of Indo-Arabic Numerals*. Version 2.0.0. Zenodo. https://doi.org/10.5281/zenodo.19829541
+
+## Licence
+As of Version 2.0.0, this dataset has been re-licensed from CC BY-NC 4.0 to CC BY-SA 4.0.
 
 ## Methodology & Sources
 The evidence was gathered from existing catalogues, from specialised studies, and from archival research. For more details, see: 
@@ -30,7 +33,7 @@ The evidence was gathered from existing catalogues, from specialised studies, an
 
 ## File List
 * `Practical_Arithmetic_web_Db`: The main dataset on practical arithmetic manuals. 
-* `LICENSE`: Creative Commons Attribution-NonCommercial 4.0.
+* `LICENSE`: Creative Commons Attribution-ShareAlike 4.0.
 * `CITATION.cff`: Citation metadata for the repository.
 
 ## Data Dictionary (Codebook)
